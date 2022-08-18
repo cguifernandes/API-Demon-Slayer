@@ -497,6 +497,8 @@ app.get('/search/:character', (req, res) => {
     res.json(Pesquisa.Personagens);
 });
 
-app.listen(5000, () => {
-    console.log('listening on port 5000');    
+var porta = process.env.PORT || 8080;
+
+app.listen(porta, () => {
+    console.log('listening on port ' + porta);    
 });
