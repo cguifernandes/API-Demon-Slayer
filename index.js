@@ -11,13 +11,20 @@ app.use(cors());
 const criaObjetos = () => {
     const Personagens = {
         Personagens: [
+
+            {
+                sinopse: "Em Kimetsu no Yaiba, Tanjiro, um bondoso jovem que ganha a vida vendendo carvão descobre que sua família foi massacrada por um demônio. E, para piorar, Nezuko, sua irmã mais nova e única sobrevivente, também acabou transformada em um demônio. Arrasado com essa sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana e para destruir o demônio que matou seus entes queridos.",
+                autora: "Koyoharu Gotouge",
+                ano: "6 de abril de 2019"
+            },
+
             {
                 nome: "Tanjiro Kamado",
                 personalidade: "Tanjiro é gentil por natureza e foi descrito por outros como tendo olhos muito gentis. Ele exibe uma grande dose de determinação e não desistirá uma vez que tenha uma meta a alcançar, o melhor exemplo disso é sua busca incansável para encontrar uma cura para Nezuko.",
                 imagem: "https://tinyurl.com/exz2fefa",
                 gif: "https://tinyurl.com/338hdh88",
                 idade: 15,
-                respiracao: 'Sol e Água',
+                respiracao: "Sol e Água",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -28,7 +35,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/yhktjacz",
                 gif: "https://tinyurl.com/ycy5ruhp",
                 idade: 16,
-                respiracao: 'Trovão',
+                respiracao: "Trovão",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -39,18 +46,18 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/2p95pp26",
                 gif: "https://tinyurl.com/2fs7w3m6",
                 idade: 15,
-                respiracao: 'Besta',
+                respiracao: "Besta",
                 genero: "Masculino",
                 raca: "Humano"
             },
 
             {
                 nome: "Nezuko Kamado",
-                personalidade: "A personalidade original de Nezuko como humana era a de uma garota gentil e carinhosa que pensava nos outros antes de si mesma como seu irmão mais velho, Tanjiro. Além disso, ela era uma irmã mais velha responsável para seus irmãos mais novos e muitas vezes colocava as necessidades deles em primeiro lugar, e não as dela.",
+                personalidade: "A personalidade original de Nezuko como humana era a de uma garota gentil e carinhosa que pensava nos outros antes de si mesma como seu irmão mais velho, Tanjiro. Nezuko não tem medo de se machucar, protegendo seus amigos de demônios, mesmo depois de retornar ao estado humano. Também é mostrado que o comportamento humano e descontraído dela apóia esse fato depois que Tanjiro se desculpou com ela.",
                 imagem: "https://tinyurl.com/5fvnrdpe",
                 gif: "https://tinyurl.com/mr3rdxf6",
-                idade: 17,
-                arte: 'Explosão de Sangue',
+                idade: 14,
+                arte: "Explosão de Sangue",
                 genero: "Feminino",
                 raca: "Demônio"
             },
@@ -115,7 +122,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/3k3phf6y",
                 gif: "https://tinyurl.com/5n8aascw",
                 idade: 22,
-                respiracao: 'Sol',
+                respiracao: "Sol",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -126,7 +133,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/yfzkbj8b",
                 gif: "https://tinyurl.com/489ws39s",
                 idade: 14,
-                respiracao: 'Névoa',
+                respiracao: "Névoa",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -137,7 +144,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/yckss6bb",
                 gif: "https://tinyurl.com/2p98mrk7",
                 idade: 20,
-                respiracao: 'Fogo',
+                respiracao: "Fogo",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -148,7 +155,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/2fpcfnfd",
                 gif: "https://tinyurl.com/3bc5tzp9",
                 idade: 21,
-                respiracao: 'Vento',
+                respiracao: "Vento",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -159,7 +166,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/37n8hb6n",
                 gif: "https://tinyurl.com/bdax6rcf",
                 idade: 19,
-                respiracao: 'Água',
+                respiracao: "Água",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -170,7 +177,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/yc6n57n6",
                 gif: "https://tinyurl.com/mrw7hd7k",
                 idade: 27,
-                respiracao: 'Pedra',
+                respiracao: "Pedra",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -181,18 +188,18 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/y3t4nav2",
                 gif: "https://tinyurl.com/mt8e54sj",
                 idade: 19,
-                respiracao: 'Amor',
+                respiracao: "Amor",
                 genero: "Feminino",
                 raca: "Humano"
             },
 
             {
                 nome: "Obanai Iguro",
-                personalidade: 'Obanai é um indivíduo muito severo e rigoroso que não mostra preocupação com aqueles que não cumprem as regras do Corpo de Extermínio de Demônios. Apesar de sua personalidade impiedosa, há duas pessoas com quem ele se preocupa profundamente: Kagaya Ubuyashiki e Mitsuri Kanroji. Ele tem uma queda por Mitsuri, que a maioria de seus companheiros detectou, exceto Tanjiro e a própria Mitsuri.',
+                personalidade: "Obanai é um indivíduo muito severo e rigoroso que não mostra preocupação com aqueles que não cumprem as regras do Corpo de Extermínio de Demônios. Apesar de sua personalidade impiedosa, há duas pessoas com quem ele se preocupa profundamente: Kagaya Ubuyashiki e Mitsuri Kanroji. Ele tem uma queda por Mitsuri, que a maioria de seus companheiros detectou, exceto Tanjiro e a própria Mitsuri.",
                 imagem: "https://tinyurl.com/2p8st3vk",
                 gif: "https://tinyurl.com/3dx37tdr",
                 idade: 21,
-                respiracao: 'Serpente',
+                respiracao: "Serpente",
                 genero: "Masculino",
                 raca: "Humano"
             },
@@ -203,7 +210,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/57adzarv",
                 gif: "https://tinyurl.com/5n8nuvdv",
                 idade: 18,
-                respiracao: 'Inseto',
+                respiracao: "Inseto",
                 genero: "Feminino",
                 raca: "Humano"
             },
@@ -475,7 +482,6 @@ const criaObjetos = () => {
             }
         ]
     };
-
     return Personagens;
 }
 
