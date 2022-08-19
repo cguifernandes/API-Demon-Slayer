@@ -5,3 +5,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/cguifernandes/API-Demon-Slayer?style=for-the-badge)
 
 Uma API desenvolvida para pegar informações dos persongens do anime Demon Slayer.
+
+Link para consumir a API:
+```
+https://api-demon-slayer.herokuapp.com/
+```
