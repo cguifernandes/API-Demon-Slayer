@@ -279,17 +279,6 @@ const criaObjetos = () => {
             },
 
             {
-                nome: "Tanjuro Kamado",
-                personalidade: 'Tanjuro era uma pessoa quieta, calculista, perdoadora, carismática e amorosa. Ele tinha um relacionamento pacífico com sua família e regularmente dava palestras a Tanjiro sobre a vida. Enquanto ele parecia calmo do lado de fora, ele mostrava uma aura nobre e decente com uma percepção tranquila do ambiente. De acordo com seu filho, ele não gostava de se destacar ou exibir suas verdadeiras habilidades para os outros.',
-                imagem: "https://tinyurl.com/mr23heuv",
-                gif: "https://tinyurl.com/nhcnrt5w",
-                idade: 25,
-                respiracao: 'Dança do Deus do Fogo',
-                genero: "Masculino",
-                raca: "Humano"
-            },
-
-            {
                 nome: "Hotaru Haganezuka",
                 personalidade: 'Hotaru é um indivíduo de sangue quente. Ele parece mostrar muito pouco cuidado, se houver, com qualquer coisa além das espadas que ele cria. Sua paixão por espadas é tão forte que ele poderia falar sobre elas por longos períodos de tempo, uma característica única até mesmo entre as pessoas da Aldeia do Espadachim.',
                 imagem: "https://tinyurl.com/mb973r9e",
