@@ -33,7 +33,7 @@ const criaObjetos = () => {
                 nome: "Zenitsu Agatsuma",
                 personalidade: "Zenitsu aparenta ser um covarde, já que muitas vezes afirma que não tem muito tempo de vida devido ao perigoso trabalho de ser um Caçador de Demônios. No entanto, apesar dessas fragilidades, Zenitsu ainda quer corresponder às expectativas que os outros criaram para ele e fará o seu melhor quando for necessário.",
                 imagem: "https://tinyurl.com/yhktjacz",
-                gif: "https://tinyurl.com/ycy5ruhp",
+                gif: "https://tinyurl.com/23ve5fky",
                 idade: 16,
                 respiracao: "Trovão",
                 genero: "Masculino",
