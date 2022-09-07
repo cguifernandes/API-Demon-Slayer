@@ -55,7 +55,7 @@ const criaObjetos = () => {
                 nome: "Nezuko Kamado",
                 personalidade: "A personalidade original de Nezuko como humana era a de uma garota gentil e carinhosa que pensava nos outros antes de si mesma como seu irmão mais velho, Tanjiro. Nezuko não tem medo de se machucar, protegendo seus amigos de demônios, mesmo depois de retornar ao estado humano. Também é mostrado que o comportamento humano e descontraído dela apóia esse fato depois que Tanjiro se desculpou com ela.",
                 imagem: "https://tinyurl.com/5fvnrdpe",
-                gif: "https://tinyurl.com/2fh8vdu2",
+                gif: "https://tinyurl.com/23juj4ya",
                 idade: 14,
                 arte: "Explosão de Sangue",
                 genero: "Feminino",
