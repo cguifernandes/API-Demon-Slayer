@@ -106,17 +106,6 @@ const criaObjetos = () => {
             },
 
             {
-                nome: "Murata",
-                personalidade: 'Não se sabe muito sobre Murata, no entanto, ele não gosta quando um caçador de nível inferior o castiga. Ele é um pouco tímido, mas parece mais corajoso do que a maioria, continuando a lutar no topo do Monte Natagumo mesmo depois que todo o seu grupo foi exterminado.',
-                imagem: "https://tinyurl.com/2f759774",
-                gif: "https://tinyurl.com/mwybfcfx",
-                idade: 20,
-                respiracao: "Água",
-                genero: "Masculino",
-                raca: "Humano"
-            },
-
-            {
                 nome: "Yoriichi Tsugikuni",
                 personalidade: "Yoriichi era um indivíduo calmo e respeitoso que usava uma expressão solene e reservada em todos os momentos, raramente mostrando surtos de emoção. Por causa de sua disposição gentil e expressão facial imutável, a maioria não conseguia dizer o que ele estava sentindo: a única pessoa que podia ler seus sentimentos sem dificuldade era sua esposa Uta. Ele também era extremamente humilde, vendo a si mesmo como apenas mais um homem e ninguém especial, apesar de seus atributos divinos; um exemplo foi o momento em que ele executou as formas da Respiração do Sol para Suyako a pedido dela e quase parecia envergonhado depois.",
                 imagem: "https://tinyurl.com/3k3phf6y",
@@ -251,7 +240,7 @@ const criaObjetos = () => {
                 nome: "Sakonji Urokodaki",
                 personalidade: 'Embora pareça a princípio um velho severo e rabugento, isso esconde uma personalidade extremamente compassiva. Embora ele pressione seus alunos com força, ele também se importa profundamente com eles, vendo-os como familiares, e é um dos poucos personagens do Corpo de Extermínio de Demônios a confiar totalmente em Nezuko para nunca comer um humano.',
                 imagem: "https://tinyurl.com/mrxz3cnv",
-                gif: "https://tinyurl.com/bde8bs43",
+                gif: "https://tinyurl.com/2p97zj58",
                 respiracao: 'Água',
                 genero: "Masculino",
                 raca: "Humano"
@@ -292,7 +281,7 @@ const criaObjetos = () => {
                 nome: "Muzan Kibutsuji",
                 personalidade: 'Muzan é de coração frio, implacável, intimidador e excepcionalmente inteligente. Ele não vê valor em nenhum humano que encontrou e mostra pouco valor em seus próprios subordinados. Raramente visualmente chateado ou feliz, ele parece completamente monótono e desapegado na maioria das ocasiões, mesmo quando mata insensivelmente seus próprios subordinados. As únicas vezes que ele demonstra emoção são quando sua visão de perfeição está avançando ou quando ele tem subordinados completamente submissos à sua vontade.',
                 imagem: "https://tinyurl.com/j4wc8vrt",
-                gif: "https://tinyurl.com/4v64vnhd",
+                gif: "https://tinyurl.com/3dyndsfx",
                 idade: 1000,
                 arte: "Sangue Negro",
                 genero: "Masculino",
@@ -426,7 +415,7 @@ const criaObjetos = () => {
                 rank: "Lua Superior 4",
                 personalidade: 'Nakime era uma jogadora de biwa misteriosa, mas fria, que demonstrava pouca emoção. Ela não falava a menos que fosse necessário e, quando falava, era sempre direta e franco, tornando suas respos]tas o mais curtas possível.',
                 imagem: "https://tinyurl.com/3rnwkw9h",
-                gif: "https://tinyurl.com/2s39e2cn",
+                gif: "https://tinyurl.com/yc45yb93",
                 idade: 113,
                 arte: "Manipulação do Castelo",
                 genero: "Feminino",
