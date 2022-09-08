@@ -25,6 +25,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/exz2fefa",
                 gif: "https://tinyurl.com/338hdh88",
                 idade: 15,
+                arte: null,
                 respiracao: "Sol e Água",
                 genero: "Masculino",
                 raca: "Humano"
@@ -37,6 +38,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/yhktjacz",
                 gif: "https://tinyurl.com/wmma9kdr",
                 idade: 16,
+                arte: null,
                 respiracao: "Trovão",
                 genero: "Masculino",
                 raca: "Humano"
@@ -45,6 +47,7 @@ const criaObjetos = () => {
             {
                 nome: "Inosuke Hashibira",
                 rank: null,
+                arte: null,
                 personalidade: "Inosuke é um jovem extremamente temperamental e orgulhoso que sempre gosta de pensar que é o lutador mais forte em uma situação, constantemente desafiando a maioria das pessoas que encontra e querendo que os outros o respeitem e o elogiem por sua habilidade.",
                 imagem: "https://tinyurl.com/2p95pp26",
                 gif: "https://tinyurl.com/2fs7w3m6",
@@ -57,6 +60,7 @@ const criaObjetos = () => {
             {
                 nome: "Nezuko Kamado",
                 rank: null,
+                arte: null,
                 personalidade: "A personalidade original de Nezuko como humana era a de uma garota gentil e carinhosa que pensava nos outros antes de si mesma como seu irmão mais velho, Tanjiro. Nezuko não tem medo de se machucar, protegendo seus amigos de demônios, mesmo depois de retornar ao estado humano. Também é mostrado que o comportamento humano e descontraído dela apóia esse fato depois que Tanjiro se desculpou com ela.",
                 imagem: "https://tinyurl.com/5fvnrdpe",
                 gif: "https://tinyurl.com/38uwb2r6",
@@ -81,6 +85,7 @@ const criaObjetos = () => {
             {
                 nome: "Sabito",
                 rank: null,
+                arte: null,
                 personalidade: 'Sabito era um jovem sério que acreditava que todas as suas ações deveriam ser de um homem. Ele foi visto como um mentor implacável durante seu tempo treinando Tanjiro Kamado, que sempre foi rápido em apontar suas falhas e se recusou a reconhecê-lo como homem. Mesmo assim, Sabito confiou sua vontade a Tanjiro e ficou feliz quando o superou como o aluno mais forte de Urokodaki, reconhecendo abertamente que Tanjiro era o mais difícil de todos e orgulhosamente deixando a vontade persistente de todos os filhos perdidos de Urokodaki para ele.',
                 imagem: "https://tinyurl.com/3tty747w",
                 gif: "https://tinyurl.com/3dt7zuwk",
@@ -93,6 +98,7 @@ const criaObjetos = () => {
             {
                 nome: "Makomo",
                 rank: null,
+                arte: null,
                 personalidade: 'Completamente oposta à personalidade agressiva de Sabito, Makomo era uma garota de natureza tranquila, paciente e gentil. Ela estava sempre ajudando Tanjiro Kamado, apontando quaisquer erros em sua técnica e corrigindo quaisquer maus hábitos que ele havia desenvolvido inconscientemente durante seu treinamento com Urokodaki.',
                 imagem: "https://tinyurl.com/2p8ck4f7",
                 gif: "https://tinyurl.com/mvmn2p4v",
@@ -105,6 +111,7 @@ const criaObjetos = () => {
             {
                 nome: "Kanao Tsuyuri",
                 rank: null,
+                arte: null,
                 personalidade: 'No início, Kanao era uma garota indecisa e quieta devido ao abuso que sofreu em seu passado antes de conhecer as irmãs Kocho. Ela se tornou incapaz de tomar decisões sozinha e reprimiu suas emoções como mecanismo de defesa. Para ajudar a corrigir isso, Kanae deu a ela uma moeda para jogar para decidir qual caminho seguir quando ela não sabia o que fazer.',
                 imagem: "https://tinyurl.com/3y5t5nuk",
                 gif: "https://tinyurl.com/2p8rwn28",
@@ -117,6 +124,7 @@ const criaObjetos = () => {
             {
                 nome: "Yoriichi Tsugikuni",
                 rank: null,
+                arte: null,
                 personalidade: "Yoriichi era um indivíduo calmo e respeitoso que usava uma expressão solene e reservada em todos os momentos, raramente mostrando surtos de emoção. Por causa de sua disposição gentil e expressão facial imutável, a maioria não conseguia dizer o que ele estava sentindo: a única pessoa que podia ler seus sentimentos sem dificuldade era sua esposa Uta. Ele também era extremamente humilde, vendo a si mesmo como apenas mais um homem e ninguém especial, apesar de seus atributos divinos; um exemplo foi o momento em que ele executou as formas da Respiração do Sol para Suyako a pedido dela e quase parecia envergonhado depois.",
                 imagem: "https://tinyurl.com/3k3phf6y",
                 gif: "https://tinyurl.com/5n8aascw",
@@ -129,6 +137,7 @@ const criaObjetos = () => {
             {
                 nome: "Muichiro Tokito",
                 rank: null,
+                arte: null,
                 personalidade: "Muichiro é um indivíduo cabeça de vento que parece constantemente vagar em pensamento e é incapaz de se concentrar em qualquer coisa. Impassível e, às vezes, obtuso, tende a pensar apenas por si mesmo e opera apenas na lógica, nunca se deixando guiar pela emoção, fazendo-o parecer completamente apático e indiferente.",
                 imagem: "https://tinyurl.com/yfzkbj8b",
                 gif: "https://tinyurl.com/489ws39s",
@@ -141,6 +150,7 @@ const criaObjetos = () => {
             {
                 nome: "Kyojuro Rengoku",
                 rank: null,
+                arte: null,
                 personalidade: "Kyojuro é muito entusiasmado em relação aos seus deveres como Hashira, e muitas vezes pareciealegremente excêntrico. Ele é amável, puro de coração, e ostenta técnica e esgrima extraordinárias decorrentes de prática e disciplina rigorosas.",
                 imagem: "https://tinyurl.com/yckss6bb",
                 gif: "https://tinyurl.com/2p98mrk7",
@@ -153,6 +163,7 @@ const criaObjetos = () => {
             {
                 nome: "Sanemi Shinazugawa",
                 rank: null,
+                arte: null,
                 personalidade: "Sanemi é abrasivo, de sangue quente, extrovertido e teimoso, muitas vezes impulsivo e rápido para atacar. Ele é muitas vezes indiferente aos outros e pode ficar bravo com extrema facilidade. A única pessoa que Sanemi demonstrou reverência foi Kagaya Ubuyashiki, e somente depois de perceber que o homem era muito mais do que sua aparência externa sugeria.",
                 imagem: "https://tinyurl.com/2fpcfnfd",
                 gif: "https://tinyurl.com/3bc5tzp9",
@@ -165,6 +176,7 @@ const criaObjetos = () => {
             {
                 nome: "Giyu Tomioka",
                 rank: null,
+                arte: null,
                 personalidade: "Giyu sempre usa uma expressão estóica e despreocupada em seu rosto. No entanto, ele tem uma personalidade reservada e um senso de justiça muito forte, sem tolerância para com aqueles que não conhecem suas próprias limitações e jogam fora suas vidas.",
                 imagem: "https://tinyurl.com/37n8hb6n",
                 gif: "https://tinyurl.com/bdax6rcf",
@@ -177,6 +189,7 @@ const criaObjetos = () => {
             {
                 nome: "Gyomei Himejima",
                 rank: null,
+                arte: null,
                 personalidade: "Gyomei incorpora o arquétipo do gigante gentil, sendo surpreendentemente suave e sensível, apesar de sua aparência intimidadora. Ele também se mostra bastante piedoso, carregando suas contas de oração em todos os momentos e oferecendo orações em situações pungentes. Mais notavelmente, Gyomei chora facilmente pelas coisas mais insignificantes, acentuando sua natureza bastante suave.",
                 imagem: "https://tinyurl.com/yc6n57n6",
                 gif: "https://tinyurl.com/mrw7hd7k",
@@ -189,6 +202,7 @@ const criaObjetos = () => {
             {
                 nome: "Mitsuri Kanroji",
                 rank: null,
+                arte: null,
                 personalidade: 'Mitsuri é uma pessoa muito emocional, apaixonada e jovial que constantemente elogia as pessoas em sua cabeça, provavelmente um fator que contribui para seu apelido como "a Hashira do Amor". Embora ela seja bastante tímida e facilmente perturbada, Mitsuri é sempre gentil com os outros, principalmente com Obanai, com quem ela parece compartilhar um forte vínculo.',
                 imagem: "https://tinyurl.com/y3t4nav2",
                 gif: "https://tinyurl.com/mt8e54sj",
@@ -201,6 +215,7 @@ const criaObjetos = () => {
             {
                 nome: "Obanai Iguro",
                 rank: null,
+                arte: null,
                 personalidade: "Obanai é um indivíduo muito severo e rigoroso que não mostra preocupação com aqueles que não cumprem as regras do Corpo de Extermínio de Demônios. Apesar de sua personalidade impiedosa, há duas pessoas com quem ele se preocupa profundamente: Kagaya Ubuyashiki e Mitsuri Kanroji. Ele tem uma queda por Mitsuri, que a maioria de seus companheiros detectou, exceto Tanjiro e a própria Mitsuri.",
                 imagem: "https://tinyurl.com/2p8st3vk",
                 gif: "https://tinyurl.com/3dx37tdr",
@@ -213,6 +228,7 @@ const criaObjetos = () => {
             {
                 nome: "Shinobu Kocho",
                 rank: null,
+                arte: null,
                 personalidade: 'Shinobu exibe um comportamento brilhante, amigável e alegre, sempre com um sorriso descontraído no rosto, independentemente da situação em que se encontra. No entanto, seu comportamento externo é mostrado muito rapidamente como uma fachada. Apesar de seu exterior relaxado e sua alegação inicial de querer se dar bem com os demônios, ela pode ser bastante cruel com eles, o que é visto quando ela mata o Demônio Aranha (Filha) depois de lhe dar uma falsa esperança de ajudá-la e tentar matar Nezuko.',
                 imagem: "https://tinyurl.com/57adzarv",
                 gif: "https://tinyurl.com/5n8nuvdv",
@@ -225,6 +241,7 @@ const criaObjetos = () => {
             {
                 nome: "Tengen Uzui",
                 rank: null,
+                arte: null,
                 personalidade: 'Tengen é um indivíduo excêntrico e chamativo, sempre querendo ser "extravagante", possuindo uma necessidade de que tudo seja chamativo e excelente, mesmo proclamando que ele é o deus da ostentação e dos festivais. Tengen também tem um lado carinhoso que está mascarado sob sua fachada extravagante, que ele só mostra para aqueles que são extremamente próximos a ele, mais notavelmente suas três esposas, Makio, Suma e Hinatsuru, que Tengen mostra realmente se importar.',
                 imagem: "https://tinyurl.com/y66ctd3t",
                 gif: "https://tinyurl.com/54dczrkv",
@@ -249,6 +266,7 @@ const criaObjetos = () => {
             {
                 nome: "Kanae Kocho",
                 rank: null,
+                arte: null,
                 personalidade: 'Kanae é mostrada como uma garota bem-humorada com uma personalidade descontraída; nos flashbacks de Shinobu e Kanao, ela quase sempre é vista com um sorriso gentil no rosto.',
                 imagem: "https://tinyurl.com/4kzmbfkt",
                 gif: "https://tinyurl.com/4u8sv5rf",
@@ -261,9 +279,11 @@ const criaObjetos = () => {
             {
                 nome: "Sakonji Urokodaki",
                 rank: null,
+                arte: null,
                 personalidade: 'Embora pareça a princípio um velho severo e rabugento, isso esconde uma personalidade extremamente compassiva. Embora ele pressione seus alunos com força, ele também se importa profundamente com eles, vendo-os como familiares, e é um dos poucos personagens do Corpo de Extermínio de Demônios a confiar totalmente em Nezuko para nunca comer um humano.',
                 imagem: "https://tinyurl.com/mrxz3cnv",
                 gif: "https://tinyurl.com/2p97zj58",
+                idade: null,
                 respiracao: 'Água',
                 genero: "Masculino",
                 raca: "Humano"
@@ -272,9 +292,11 @@ const criaObjetos = () => {
             {
                 nome: "Jigoro Kuwajima",
                 rank: null,
+                arte: null,
                 personalidade: 'Jigoro tem uma devoção constante a seus alunos e um treinamento rigoroso. Apesar de seu status como um mentor forte e experiência como um Hashira anterior, ele tinha um ponto fraco e dedicação inabalável para criar a próxima geração de alunos. Devido a essa devoção apaixonada, ele ficou cheio de tristeza depois de descobrir que seu ex-aluno, Kaigaku, traiu o Corpo de Extermínio de Demônios e se juntou às fileiras dos Doze Luas Superiores.',
                 imagem: "https://tinyurl.com/3ab9kfwe",
                 gif: "https://tinyurl.com/3h5ddr3j",
+                idade: null,
                 respiracao: 'Trovão',
                 genero: "Masculino",
                 raca: "Humano"
@@ -283,6 +305,7 @@ const criaObjetos = () => {
             {
                 nome: "Tanjuro Kamado",
                 rank: null,
+                arte: null,
                 personalidade: 'Tanjuro era uma pessoa quieta, calculista, perdoadora, carismática e amorosa. Ele tinha um relacionamento pacífico com sua família e regularmente dava palestras a Tanjiro sobre a vida. Enquanto ele parecia calmo do lado de fora, ele mostrava uma aura nobre e decente com uma percepção tranquila do ambiente. De acordo com seu filho, ele não gostava de se destacar ou exibir suas verdadeiras habilidades para os outros.',
                 imagem: "https://tinyurl.com/mr23heuv",
                 gif: "https://tinyurl.com/nhcnrt5w",
@@ -350,6 +373,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/32229tsh",
                 respiracao: null,
                 gif: "https://tinyurl.com/2fr7ezu4",
+                idade: null,
                 arte: "Hiasobi Temari",
                 genero: "Feminino",
                 raca: "Demônio"
@@ -362,6 +386,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/ymandzar",
                 respiracao: null,
                 gif: "https://tinyurl.com/mcacm73e",
+                idade: null,
                 arte: "Flecha Koketsu",
                 genero: "Masculino",
                 raca: "Demônio"
@@ -374,6 +399,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/4fumb6at",
                 respiracao: null,
                 gif: "https://tinyurl.com/4a4f65x4",
+                idade: null,
                 arte: "Gaiola de Fios Cortantes",
                 genero: "Masculino",
                 raca: "Demônio"
@@ -386,6 +412,7 @@ const criaObjetos = () => {
                 imagem: "https://tinyurl.com/2fw9uvvh",
                 respiracao: null,
                 gif: "https://tinyurl.com/2a6ruxrc",
+                idade: null,
                 arte: "Sussurros da Hipnose Insconsciente Forçada",
                 genero: "Masculino",
                 raca: "Demônio"
