@@ -88,7 +88,7 @@ const criaObjetos = () => {
                 arte: null,
                 personalidade: 'Sabito era um jovem sério que acreditava que todas as suas ações deveriam ser de um homem. Ele foi visto como um mentor implacável durante seu tempo treinando Tanjiro Kamado, que sempre foi rápido em apontar suas falhas e se recusou a reconhecê-lo como homem. Mesmo assim, Sabito confiou sua vontade a Tanjiro e ficou feliz quando o superou como o aluno mais forte de Urokodaki, reconhecendo abertamente que Tanjiro era o mais difícil de todos e orgulhosamente deixando a vontade persistente de todos os filhos perdidos de Urokodaki para ele.',
                 imagem: "https://tinyurl.com/3tty747w",
-                gif: "https://tinyurl.com/3dt7zuwk",
+                gif: "https://tinyurl.com/yck3ux45",
                 idade: 13,
                 respiracao: "Água",
                 genero: "Masculino",
