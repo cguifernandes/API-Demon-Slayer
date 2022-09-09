@@ -218,7 +218,7 @@ const criaObjetos = () => {
                 arte: null,
                 personalidade: "Obanai é um indivíduo muito severo e rigoroso que não mostra preocupação com aqueles que não cumprem as regras do Corpo de Extermínio de Demônios. Apesar de sua personalidade impiedosa, há duas pessoas com quem ele se preocupa profundamente: Kagaya Ubuyashiki e Mitsuri Kanroji. Ele tem uma queda por Mitsuri, que a maioria de seus companheiros detectou, exceto Tanjiro e a própria Mitsuri.",
                 imagem: "https://tinyurl.com/2p8st3vk",
-                gif: "https://tinyurl.com/2mc4j4rr",
+                gif: "https://tinyurl.com/3dfcj4ew",
                 idade: 21,
                 respiracao: "Serpente",
                 genero: "Masculino",
