@@ -545,7 +545,7 @@ app.get('/', (req, res) => {
 
 app.get('/search/:character', (req, res) => {
     const Personagens = criaObjetos().Personagens;
-    var Pesquis = {
+    var Pesquisa = {
         Personagens: []
     }
     for (let i = 0; i < Personagens.length; i++) {
