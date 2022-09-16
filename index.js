@@ -542,7 +542,7 @@ app.get('/', (req, res) => {
     res.json(Personagens);
 });
 
-app.get('/serch/:character', (req, res) => {
+app.get('/search/:character', (req, res) => {
     const Personagens = criaObjetos().Personagens;
     var Pesquisa = {
         Personagens: []
