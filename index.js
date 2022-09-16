@@ -3,7 +3,7 @@ const app = express();
 const session = require('express-session');
 const cors = require('cors');
 
-app.use(session({secret: 'jfioesjoifjiosehsoebclkmklecsmiecpeo'}));
+app.use(session({secret: 'sad'}));
 app.use(express.json());
 app.use(cors());
 
