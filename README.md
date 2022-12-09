@@ -8,5 +8,5 @@ Uma API desenvolvida para pegar informações dos persongens do anime Demon Slay
 
 Link para consumir a API:
 ```
-https://api-demon-slayer.herokuapp.com/
+https://api-demon-slayer.vercel.app/
 ```
